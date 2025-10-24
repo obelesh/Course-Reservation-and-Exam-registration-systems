@@ -23,7 +23,6 @@ To develop the Course Reservation and Exam Registration System using Star UML
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
-
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
@@ -41,8 +40,7 @@ Specifying the context and requirements of a system
 
 
 
-
-
+<img width="912" height="922" alt="Screenshot 2025-10-24 135149" src="https://github.com/user-attachments/assets/988e3a10-ca3c-41be-911c-de869dba6b2e" />
 
 
 # CLASS DIAGRAM
@@ -59,6 +57,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1032" height="712" alt="Screenshot 2025-10-24 134307" src="https://github.com/user-attachments/assets/6ef4a0b7-8de8-449c-9464-2bb2ca85ff6f" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="668" height="686" alt="Screenshot 2025-10-24 135703" src="https://github.com/user-attachments/assets/b5aa557d-064a-4ea0-b955-6e3b1f36349e" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="675" height="559" alt="Screenshot 2025-10-24 135327" src="https://github.com/user-attachments/assets/54309029-d76a-4c86-b74a-c6681d85c76d" />
 
 
 
@@ -98,6 +99,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1043" height="1028" alt="Screenshot 2025-10-24 134829" src="https://github.com/user-attachments/assets/b65d4624-efbd-4896-a33a-c1c1d3e3792e" />
 
 
 
@@ -120,6 +122,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="727" height="730" alt="Screenshot 2025-10-24 135300" src="https://github.com/user-attachments/assets/7736bf9d-75ed-43b6-b091-9fb324747f33" />
 
 
 
